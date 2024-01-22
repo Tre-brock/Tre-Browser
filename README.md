@@ -4,7 +4,7 @@
 <h2>This is as open as I can make it (and it's build on the open source firefox)</h2>
 
 
-Download from this: http://tinyurl.com/5n94b6z3
+Download from this: https://drive.google.com/file/d/1tIxm_2jogFVR8cUAQxFz_56ljHe0vsBx/view?usp=sharing
 How to install: https://youtu.be/Fxzdu2lxEAM
 
 
