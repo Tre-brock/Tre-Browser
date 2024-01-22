@@ -1,5 +1,5 @@
 <h1>This a new project I'm working on, 
-It has Linux, windows, Mac</h1>
+It has Linux, windows, and Mac support</h1>
 <h2>You can look throught all the files if you want</h2>
 
 <h2>This is as open as I can make it (and it's build on the open source firefox)</h2>
