@@ -9,3 +9,6 @@ How to install: https://youtu.be/Fxzdu2lxEAM
 
 
 <h2>If you want to reuse this you can, but your project has to be open source, you have to credit me.</h2>
+
+
+![Tre-browser logo](https://github.com/Tre-brock/Tre-Browser/assets/152460754/c5130363-1137-4104-98bb-b01507b495a1)
