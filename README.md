@@ -1,5 +1,5 @@
 <h1>This a firefox based browser made by me (at the moment it is just a set a files to paste into firefox), 
-It has Linux, windows, and Mac support</h1>
+It has Linux, windows, mac, and bsd support</h1>
 <h2>You can look throught all the files if you want</h2>
 
 <h2>It is all open source gpl3</h2>
