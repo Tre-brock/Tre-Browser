@@ -1,4 +1,4 @@
-<h1>This a firefox based browser made by me (at the moment it is just a set a files to paste into firefox), 
+<h1>This a firefox user profile made by me, 
 It has Linux, windows, mac, and bsd support</h1>
 <h2>You can look throught all the files if you want</h2>
 
